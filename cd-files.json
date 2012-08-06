@@ -1,0 +1,388 @@
+[
+    {
+        "name": "AndroidManifest.xml",
+        "type": "file",
+        "path": "/AndroidManifest.xml",
+        "meta": true
+    },
+    {
+        "name": "assets",
+        "type": "dir",
+        "path": "/assets",
+        "items": []
+    },
+    {
+        "name": "proguard-project.txt",
+        "type": "file",
+        "path": "/proguard-project.txt",
+        "meta": false
+    },
+    {
+        "name": "project.properties",
+        "type": "file",
+        "path": "/project.properties",
+        "meta": false
+    },
+    {
+        "name": "libs",
+        "type": "dir",
+        "path": "/libs",
+        "items": [
+            {
+                "name": "android-support-v4.jar",
+                "type": "file",
+                "path": "/libs/android-support-v4.jar",
+                "meta": false
+            }
+        ]
+    },
+    {
+        "name": "res",
+        "type": "dir",
+        "path": "/res",
+        "items": [
+            {
+                "name": "drawable-ldpi",
+                "type": "dir",
+                "path": "/res/drawable-ldpi",
+                "items": []
+            },
+            {
+                "name": "drawable-hdpi",
+                "type": "dir",
+                "path": "/res/drawable-hdpi",
+                "items": [
+                    {
+                        "name": "ic_action_search.png",
+                        "type": "file",
+                        "path": "/res/drawable-hdpi/ic_action_search.png",
+                        "meta": false
+                    },
+                    {
+                        "name": "ic_launcher.png",
+                        "type": "file",
+                        "path": "/res/drawable-hdpi/ic_launcher.png",
+                        "meta": false
+                    }
+                ]
+            },
+            {
+                "name": "drawable-mdpi",
+                "type": "dir",
+                "path": "/res/drawable-mdpi",
+                "items": [
+                    {
+                        "name": "ic_action_search.png",
+                        "type": "file",
+                        "path": "/res/drawable-mdpi/ic_action_search.png",
+                        "meta": false
+                    },
+                    {
+                        "name": "ic_launcher.png",
+                        "type": "file",
+                        "path": "/res/drawable-mdpi/ic_launcher.png",
+                        "meta": false
+                    }
+                ]
+            },
+            {
+                "name": "layout",
+                "type": "dir",
+                "path": "/res/layout",
+                "items": [
+                    {
+                        "name": "activity_main.xml",
+                        "type": "file",
+                        "path": "/res/layout/activity_main.xml",
+                        "meta": false
+                    }
+                ]
+            },
+            {
+                "name": "drawable-xhdpi",
+                "type": "dir",
+                "path": "/res/drawable-xhdpi",
+                "items": [
+                    {
+                        "name": "ic_action_search.png",
+                        "type": "file",
+                        "path": "/res/drawable-xhdpi/ic_action_search.png",
+                        "meta": false
+                    },
+                    {
+                        "name": "ic_launcher.png",
+                        "type": "file",
+                        "path": "/res/drawable-xhdpi/ic_launcher.png",
+                        "meta": false
+                    }
+                ]
+            },
+            {
+                "name": "menu",
+                "type": "dir",
+                "path": "/res/menu",
+                "items": [
+                    {
+                        "name": "activity_main.xml",
+                        "type": "file",
+                        "path": "/res/menu/activity_main.xml",
+                        "meta": false
+                    }
+                ]
+            },
+            {
+                "name": "values",
+                "type": "dir",
+                "path": "/res/values",
+                "items": [
+                    {
+                        "name": "strings.xml",
+                        "type": "file",
+                        "path": "/res/values/strings.xml",
+                        "meta": false
+                    },
+                    {
+                        "name": "styles.xml",
+                        "type": "file",
+                        "path": "/res/values/styles.xml",
+                        "meta": false
+                    }
+                ]
+            },
+            {
+                "name": "values-v11",
+                "type": "dir",
+                "path": "/res/values-v11",
+                "items": [
+                    {
+                        "name": "styles.xml",
+                        "type": "file",
+                        "path": "/res/values-v11/styles.xml",
+                        "meta": false
+                    }
+                ]
+            },
+            {
+                "name": "values-v14",
+                "type": "dir",
+                "path": "/res/values-v14",
+                "items": [
+                    {
+                        "name": "styles.xml",
+                        "type": "file",
+                        "path": "/res/values-v14/styles.xml",
+                        "meta": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "src",
+        "type": "dir",
+        "path": "/src",
+        "items": [
+            {
+                "name": "com",
+                "type": "dir",
+                "path": "/src/com",
+                "items": [
+                    {
+                        "name": "marakana",
+                        "type": "dir",
+                        "path": "/src/com/marakana",
+                        "items": [
+                            {
+                                "name": "android",
+                                "type": "dir",
+                                "path": "/src/com/marakana/android",
+                                "items": [
+                                    {
+                                        "name": "helloworld",
+                                        "type": "dir",
+                                        "path": "/src/com/marakana/android/helloworld",
+                                        "items": [
+                                            {
+                                                "name": "MainActivity.java",
+                                                "type": "file",
+                                                "path": "/src/com/marakana/android/helloworld/MainActivity.java",
+                                                "meta": false
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "gen",
+        "type": "dir",
+        "path": "/gen",
+        "items": [
+            {
+                "name": "com",
+                "type": "dir",
+                "path": "/gen/com",
+                "items": [
+                    {
+                        "name": "marakana",
+                        "type": "dir",
+                        "path": "/gen/com/marakana",
+                        "items": [
+                            {
+                                "name": "android",
+                                "type": "dir",
+                                "path": "/gen/com/marakana/android",
+                                "items": [
+                                    {
+                                        "name": "helloworld",
+                                        "type": "dir",
+                                        "path": "/gen/com/marakana/android/helloworld",
+                                        "items": [
+                                            {
+                                                "name": "BuildConfig.java",
+                                                "type": "file",
+                                                "path": "/gen/com/marakana/android/helloworld/BuildConfig.java",
+                                                "meta": false
+                                            },
+                                            {
+                                                "name": "R.java",
+                                                "type": "file",
+                                                "path": "/gen/com/marakana/android/helloworld/R.java",
+                                                "meta": false
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "bin",
+        "type": "dir",
+        "path": "/bin",
+        "items": [
+            {
+                "name": "AndroidManifest.xml",
+                "type": "file",
+                "path": "/bin/AndroidManifest.xml",
+                "meta": false
+            },
+            {
+                "name": "jarlist.cache",
+                "type": "file",
+                "path": "/bin/jarlist.cache",
+                "meta": false
+            },
+            {
+                "name": "res",
+                "type": "dir",
+                "path": "/bin/res",
+                "items": []
+            },
+            {
+                "name": "classes",
+                "type": "dir",
+                "path": "/bin/classes",
+                "items": [
+                    {
+                        "name": "com",
+                        "type": "dir",
+                        "path": "/bin/classes/com",
+                        "items": [
+                            {
+                                "name": "marakana",
+                                "type": "dir",
+                                "path": "/bin/classes/com/marakana",
+                                "items": [
+                                    {
+                                        "name": "android",
+                                        "type": "dir",
+                                        "path": "/bin/classes/com/marakana/android",
+                                        "items": [
+                                            {
+                                                "name": "helloworld",
+                                                "type": "dir",
+                                                "path": "/bin/classes/com/marakana/android/helloworld",
+                                                "items": [
+                                                    {
+                                                        "name": "BuildConfig.class",
+                                                        "type": "file",
+                                                        "path": "/bin/classes/com/marakana/android/helloworld/BuildConfig.class",
+                                                        "meta": false
+                                                    },
+                                                    {
+                                                        "name": "MainActivity.class",
+                                                        "type": "file",
+                                                        "path": "/bin/classes/com/marakana/android/helloworld/MainActivity.class",
+                                                        "meta": false
+                                                    },
+                                                    {
+                                                        "name": "R$attr.class",
+                                                        "type": "file",
+                                                        "path": "/bin/classes/com/marakana/android/helloworld/R$attr.class",
+                                                        "meta": false
+                                                    },
+                                                    {
+                                                        "name": "R$drawable.class",
+                                                        "type": "file",
+                                                        "path": "/bin/classes/com/marakana/android/helloworld/R$drawable.class",
+                                                        "meta": false
+                                                    },
+                                                    {
+                                                        "name": "R$id.class",
+                                                        "type": "file",
+                                                        "path": "/bin/classes/com/marakana/android/helloworld/R$id.class",
+                                                        "meta": false
+                                                    },
+                                                    {
+                                                        "name": "R$layout.class",
+                                                        "type": "file",
+                                                        "path": "/bin/classes/com/marakana/android/helloworld/R$layout.class",
+                                                        "meta": false
+                                                    },
+                                                    {
+                                                        "name": "R$menu.class",
+                                                        "type": "file",
+                                                        "path": "/bin/classes/com/marakana/android/helloworld/R$menu.class",
+                                                        "meta": false
+                                                    },
+                                                    {
+                                                        "name": "R$string.class",
+                                                        "type": "file",
+                                                        "path": "/bin/classes/com/marakana/android/helloworld/R$string.class",
+                                                        "meta": false
+                                                    },
+                                                    {
+                                                        "name": "R$style.class",
+                                                        "type": "file",
+                                                        "path": "/bin/classes/com/marakana/android/helloworld/R$style.class",
+                                                        "meta": false
+                                                    },
+                                                    {
+                                                        "name": "R.class",
+                                                        "type": "file",
+                                                        "path": "/bin/classes/com/marakana/android/helloworld/R.class",
+                                                        "meta": false
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
